@@ -7,7 +7,7 @@
 
 ### Technical Background
 
-Currently have taken classes in mobile-first web design, and Java.
+Currently have taken classes in mobile-first web design, Java and visual basic.
 
 ### Favorite Meme
 
