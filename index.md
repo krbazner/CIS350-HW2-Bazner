@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+To be updated later
 
 You can use the [editor on GitHub](https://github.com/krbazner/CIS350-HW2-Bazner/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
